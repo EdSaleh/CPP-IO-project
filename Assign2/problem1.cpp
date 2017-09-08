@@ -1,9 +1,4 @@
-/**
-@file problem1.cpp
-@author Alyami #100
-@date 2016-6-14
-@version 1.0
-*/
+
 
 /*
 //Program Requirements:
@@ -18,7 +13,7 @@ h.Write a function to read two prices from the user in any order.
 i.Write a function to print all plants that their prices fall between the two prices that been read in the previous function.
 j.Display a menu to the user to select a task such as :
 To find the highest price enter : H To find the lowest price enter : L To list plants within a range enter : R To exit enter : E
-k.Your program should continue running until the user enter ‘E’.
+k.Your program should continue running until the user enter â€˜Eâ€™.
 l.All your outputs should be formatted using the appropriate manipulators.
 */
 
